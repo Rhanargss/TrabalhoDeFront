@@ -1,0 +1,49 @@
+body{
+    background-image: url("cake.jpg");
+    background-attachment: fixed;
+    background-size: cover; 
+
+}
+
+h1{
+    margin: 0;
+}
+
+h3, h5{
+    /*margin-right: 15px;*/
+    margin-top : 25px;
+}
+
+#inicio{
+    height: 80px;
+
+}
+
+
+.desenvolvimento, footer{
+    margin-top: 50vh;
+
+}
+
+.icone{
+    height: 50px;
+    float: right;
+
+}
+
+.mapa{
+    height: 50px;
+
+}
+
+ul {
+    display: flex;
+
+}
+
+li a{
+    align-items: flex-end; 
+
+}
+
+
