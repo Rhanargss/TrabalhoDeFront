@@ -20,8 +20,11 @@ h3, h5{
 }
 
 
-.desenvolvimento, footer{
-    margin-top: 50vh;
+.desenvolvimento{
+    margin-top: 100vh;
+} 
+.footer{
+    margin-top: 0vh;
 
 }
 
@@ -47,7 +50,8 @@ li a{
 }
 
 .texto{
-    margin: 50px;
+    margin top: 500px;
+    margin right: 50px;
 }
 
 
